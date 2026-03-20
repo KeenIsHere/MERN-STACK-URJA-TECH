@@ -1,0 +1,28 @@
+.styleExt {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#even {
+    color: blue;
+}
+
+.odd {
+  
+    background-color: #f7a4a4;
+}
+
+#evn {
+    background-color: green;
+}
+
+
+/* .Assign-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 10px;
+} */
